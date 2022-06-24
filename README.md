@@ -9,5 +9,4 @@ You can see our final dataset in publisher_author_cluster_added_new.csv.
 You can run our final model through python notebook colab_notebook/RS_Model/Final_Content_RS.ipynb
 
 We used the above hybrid model to get the prediction for Dataset/evaluation.csv. Our final result can be found in DMC_final_result_Dataworms.csv.
-
-If you want to see the detail of our recommendation system, please read our report, DMC2021_Report_TheDataworms.pdf.
+The detail of this recommendation system and some furthet analysis are available in our team-report named DMC2021_Report_TheDataworms.pdf.
